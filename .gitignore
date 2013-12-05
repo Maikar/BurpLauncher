@@ -1,0 +1,7 @@
+bin/
+META-INF/
+
+.metadata/
+
+*.lnk
+*.log

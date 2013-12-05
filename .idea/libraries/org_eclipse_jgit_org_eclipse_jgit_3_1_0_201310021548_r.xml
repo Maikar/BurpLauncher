@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jgit:org.eclipse.jgit:3.1.0.201310021548-r" type="repository">
+    <properties maven-id="org.eclipse.jgit:org.eclipse.jgit:3.1.0.201310021548-r" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.jgit-3.1.0.201310021548-r.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsch-0.1.46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JavaEWAH-0.5.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

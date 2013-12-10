@@ -1,4 +1,4 @@
-package BurpLauncher.Core;
+package main.java.burplauncher.core;
 
 import javafx.fxml.FXMLLoader;
 import javafx.util.Callback;

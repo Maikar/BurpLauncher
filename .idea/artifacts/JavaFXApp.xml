@@ -1,14 +1,21 @@
 <component name="ArtifactManager">
   <artifact type="javafx" name="JavaFXApp">
-    <output-path>$PROJECT_DIR$/out/artifacts/JavaFXApp</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts/BurpLauncher</output-path>
     <properties id="javafx-properties">
       <options>
-        <option name="appClass" value="sample.Main" />
+        <option name="appClass" value="BurpLauncher.Main" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="BurpLauncher" />
+        <option name="vendor" value="" />
       </options>
     </properties>
     <root id="root">
-      <element id="archive" name="JavaFXApp.jar">
+      <element id="archive" name="BurpLauncher.jar">
         <element id="module-output" name="BurpLauncher" />
+        <element id="library" level="project" name="spring-3.2.4" />
+        <element id="library" level="project" name="org.eclipse.jgit:org.eclipse.jgit:3.1.0.201310021548-r" />
       </element>
     </root>
   </artifact>

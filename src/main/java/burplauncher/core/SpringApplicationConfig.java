@@ -1,6 +1,6 @@
-package BurpLauncher.Core;
+package main.java.burplauncher.core;
 
-import BurpLauncher.Shell.Controllers.ShellController;
+import main.java.burplauncher.shell.controllers.ShellController;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
